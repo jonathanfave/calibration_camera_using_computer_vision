@@ -4,6 +4,6 @@
 
 - Project developed with Python
 
-- You will need the opencv module and matplotlib to run the different parts of the project
-`pip install opencv-python`
-`pip install matplotlib`
+- You will need the opencv module and matplotlib to run the different parts of the project :
+**`pip install opencv-python`**
+**`pip install matplotlib`**
